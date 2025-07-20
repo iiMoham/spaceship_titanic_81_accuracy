@@ -1,6 +1,6 @@
 # Spaceship Titanic - Enhanced Solution
 
-This repository contains an enhanced solution for the Kaggle Spaceship Titanic competition, designed to improve upon your current score of 0.79.
+This repository contains an enhanced solution for the Kaggle Spaceship Titanic competition, designed to improve upon your current score of 0.8.
 
 ## Files Included
 
