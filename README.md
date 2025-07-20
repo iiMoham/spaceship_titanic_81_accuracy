@@ -91,4 +91,4 @@ To push beyond 0.81:
 ## Competition Link
 https://www.kaggle.com/c/spaceship-titanic
 
-Good luck with your improved submission! 
+Good luck! 
